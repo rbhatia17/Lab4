@@ -1,6 +1,6 @@
 # Lab4 Argument Framework
 
-# CLAIM Prospective Students should pursue MS in information Systems from Santa Clara University 
+# CLAIM: Prospective Students should pursue MS in information Systems from Santa Clara University 
 
 I started from the Data Extraction to what is the data i get about MSIS program for Santa Clara University(SCU). 
 The first data i found was rankings for MSIS program in California and i found that SCU comes in top 30 schools for this program. I liked the data and went ahead with my visualization but once i made a bar chart i felt if i look for the first time its giving an another image then what i expected of my viusalization. As rankings should be more in a table form then a visualization. 
