@@ -9,7 +9,7 @@ Then i got the data for student to teacher ratio and the number of students enro
 This data showed me that for SCU the student to teacher ratio was 14:1, this is really better as if a professor have less students under them they end up giving more focus on each student and students don't feel neglected.
 Then my data showed the number of students enrolled were going down as the rankings of colleges goes down(by this i mean rankings gets better) this tries to say its not easy to get enrolled for good colleges as the competition is much more. 
 
-So, out of the data i got i claimed that MSIS program is really good of Santa Clara University. 
+So, out of the data i got to claime that MSIS program is really good of Santa Clara University. 
 
 I still need more data to make a more strong claim like the GRE, GMAT scores, the salary data for the students who graduate from SCU.
 For the next time if i do the same visualization i would go with managing my time and then collecting data and making a visualization an tableau and then iterate with my visualization and data. 
