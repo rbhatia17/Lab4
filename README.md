@@ -10,3 +10,5 @@ Then my data showed the number of students enrolled were going down as the ranki
 So, out of the data i got i claimed that MSIS program is really good of Santa Clara University. 
 
 I still need more data to make a more strong claim like the GRE, GMAT scores, the salary data for the students who graduate from SCU.
+For the next time if i do the same visualization i would go with managing my time and then collecting data and making a visualization an tableau and then iterate with my visualization and data. 
+As when you do a visualization you get more idea of what you need, and can explore the data.
